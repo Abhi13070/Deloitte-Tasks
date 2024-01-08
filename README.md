@@ -2,3 +2,5 @@ Daikibo is in the process of integrating IIoT* (Industrial Internet-of-Things) d
 to monitor, measure and analyze their manufacturing processes. Half of their
 infrastructure uses devices streaming telemetry data** in one format, and the
 other half - in another. They need your help to combine the two.
+
+This repository is created for adding the tasks done during the Deloitte Virtual Internship.
